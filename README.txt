@@ -1,1 +1,2 @@
 Hello Nagoya!
+GoodBye Nagoya!
